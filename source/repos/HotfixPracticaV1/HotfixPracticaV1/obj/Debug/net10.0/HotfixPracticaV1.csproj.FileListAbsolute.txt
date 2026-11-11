@@ -1,0 +1,15 @@
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\bin\Debug\net10.0\HotfixPracticaV1.deps.json
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\bin\Debug\net10.0\HotfixPracticaV1.dll
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\bin\Debug\net10.0\HotfixPracticaV1.pdb
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.AssemblyInfoInputs.cache
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.AssemblyInfo.cs
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.csproj.CoreCompileInputs.cache
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.dll
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\refint\HotfixPracticaV1.dll
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.pdb
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\ref\HotfixPracticaV1.dll
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\bin\Debug\net10.0\HotfixPracticaV1.exe
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\bin\Debug\net10.0\HotfixPracticaV1.runtimeconfig.json
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPracticaV1.genruntimeconfig.cache
+C:\Users\diazs\source\repos\HotfixPracticaV1\HotfixPracticaV1\obj\Debug\net10.0\HotfixPr.7F0BC0D7.Up2Date

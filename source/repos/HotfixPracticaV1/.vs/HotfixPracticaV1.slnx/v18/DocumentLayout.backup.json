@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{668F79CF-B72D-737E-8243-6D3DD540143F}|HotfixPracticaV1\\HotfixPracticaV1.csproj|c:\\users\\diazs\\source\\repos\\hotfixpracticav1\\hotfixpracticav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668F79CF-B72D-737E-8243-6D3DD540143F}|HotfixPracticaV1\\HotfixPracticaV1.csproj|solutionrelative:hotfixpracticav1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668F79CF-B72D-737E-8243-6D3DD540143F}|HotfixPracticaV1\\HotfixPracticaV1.csproj|c:\\users\\diazs\\source\\repos\\hotfixpracticav1\\hotfixpracticav1\\hotfixpracticav1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{668F79CF-B72D-737E-8243-6D3DD540143F}|HotfixPracticaV1\\HotfixPracticaV1.csproj|solutionrelative:hotfixpracticav1\\hotfixpracticav1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{668F79CF-B72D-737E-8243-6D3DD540143F}|HotfixPracticaV1\\HotfixPracticaV1.csproj|c:\\users\\diazs\\source\\repos\\hotfixpracticav1\\hotfixpracticav1\\class\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{668F79CF-B72D-737E-8243-6D3DD540143F}|HotfixPracticaV1\\HotfixPracticaV1.csproj|solutionrelative:hotfixpracticav1\\class\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotfixPracticaV1",
+              "DocumentMoniker": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\HotfixPracticaV1.csproj",
+              "RelativeDocumentMoniker": "HotfixPracticaV1\\HotfixPracticaV1.csproj",
+              "ToolTip": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\HotfixPracticaV1.csproj",
+              "RelativeToolTip": "HotfixPracticaV1\\HotfixPracticaV1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T23:03:51.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\Class\\Personaje.cs",
+              "RelativeDocumentMoniker": "HotfixPracticaV1\\Class\\Personaje.cs",
+              "ToolTip": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\Class\\Personaje.cs",
+              "RelativeToolTip": "HotfixPracticaV1\\Class\\Personaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T23:01:43.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\Program.cs",
+              "RelativeDocumentMoniker": "HotfixPracticaV1\\Program.cs",
+              "ToolTip": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\Program.cs",
+              "RelativeToolTip": "HotfixPracticaV1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T22:58:19.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

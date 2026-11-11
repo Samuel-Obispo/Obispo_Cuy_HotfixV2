@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HotfixPracticaV1/1.0.0": {
+        "runtime": {
+          "HotfixPracticaV1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HotfixPracticaV1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
