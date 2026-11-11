@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotfixPracticaV1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d12029f275380e164aae6ca1b1e0a09a29318a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotfixPracticaV1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotfixPracticaV1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

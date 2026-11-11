@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HotfixPracticaV1",
+              "Title": "HotfixPracticaV1.csproj",
               "DocumentMoniker": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\HotfixPracticaV1.csproj",
               "RelativeDocumentMoniker": "HotfixPracticaV1\\HotfixPracticaV1.csproj",
               "ToolTip": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\HotfixPracticaV1.csproj",
               "RelativeToolTip": "HotfixPracticaV1\\HotfixPracticaV1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-11T23:03:51.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T23:03:51.298Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "HotfixPracticaV1\\Class\\Personaje.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T23:01:43.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-11T23:01:43.422Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "HotfixPracticaV1\\Program.cs",
               "ToolTip": "C:\\Users\\diazs\\source\\repos\\HotfixPracticaV1\\HotfixPracticaV1\\Program.cs",
               "RelativeToolTip": "HotfixPracticaV1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T22:58:19.258Z",
               "EditorCaption": ""
