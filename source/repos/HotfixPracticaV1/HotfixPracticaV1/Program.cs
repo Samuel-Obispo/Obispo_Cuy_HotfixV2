@@ -8,7 +8,7 @@
             {
                 Nombre = "Guerrero",
                 Vida = 100,
-                Ataque = 1000,
+                Ataque = 1000545465454,
                 Defensa = 15,
                 Nivel = 3
             };
